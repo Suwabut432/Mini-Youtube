@@ -1,0 +1,11 @@
+{
+  "name": "mini-youtube",
+  "version": "1.0.0",
+  "description": "This is a mini youtube project in this project works scalable apis and best data modeling",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Suwabut",
+  "license": "ISC"
+}
