@@ -4,7 +4,7 @@
   "description": "This is a mini youtube project in this project works scalable apis and best data modeling",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "Suwabut",
   "license": "ISC",
